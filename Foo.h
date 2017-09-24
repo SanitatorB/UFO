@@ -8,4 +8,4 @@ class Foo
     void show_data();
 }
 
-#endif // PIECE_H
+#endif //FOO_H
